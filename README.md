@@ -29,3 +29,5 @@
 * Zhao S, Ran J, Musa SS, et al., " Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: a data-driven analysis in the early phase of the outbreak. ", bioRxiv. 2020; (published online Jan 24. DOI:10.1101/2020.01.23.916395 (preprint).) 
 * https://datastudio.google.com/embed/reporting/c84945c0-21a5-42ee-bd79-e6e02dfa43c6/page/eHUDB
 * https://kiang.github.io/2019-nCoV/
+
+https://yfyangd.github.io/wuhan.github.io/
