@@ -8,7 +8,7 @@
 
 > **Predict:**: The infection forecast for the next three days is **28348**, **33723**, **37397** (2/6,2/7,2/8). The actual number of people infected with the 2019-nCoV in the world will reach **50,000 at 02/13**
 
-<iframe frameborder="0" class="juxtapose" width="50%" height="50%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f1892be4-5da0-11ed-b5bd-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="50%" height="366" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f1892be4-5da0-11ed-b5bd-6595d9b17862"></iframe>
 
 <img style="float: middle;" src="https://www.sciencealert.com/images/2020-01/processed/coronavirus_topic_header_1024.jpg" width="80%">
 
