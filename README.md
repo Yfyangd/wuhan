@@ -10,6 +10,7 @@
 
 
 <iframe frameborder="0" class="juxtapose" width="40%" height="466" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5f7344a8-5da3-11ed-b5bd-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="40%" height="466" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5f7344a8-5da3-11ed-b5bd-6595d9b17862"></iframe>
 
 <img style="float: middle;" src="https://www.sciencealert.com/images/2020-01/processed/coronavirus_topic_header_1024.jpg" width="80%">
 
